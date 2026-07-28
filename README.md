@@ -15,7 +15,7 @@
 
 ### 🚀 เกี่ยวกับฉัน
 
-นักศึกษาชั้นปีที่ 4 สาขาวิชาเทคโนโลยีสารสนเทศ (B.Sc.) มีความสนใจและมุ่งมั่นในสายงาน **Software Testing / Quality Assurance (QA)** โดยเน้นการออกแบบกรณีทดสอบ (Test Case) และการทดสอบระบบอัตโนมัติ (Automated Testing) เพื่อให้มั่นใจในคุณภาพและความถูกต้องของซอฟต์แวร์
+นักศึกษาชั้นปีที่ 4 สาขาวิชาเทคโนโลยีสารสนเทศ มีความสนใจและมุ่งมั่นในสายงาน **Software Testing / Quality Assurance (QA)** โดยเน้นการออกแบบกรณีทดสอบ (Test Case) และการทดสอบระบบอัตโนมัติ (Automated Testing) เพื่อให้มั่นใจในคุณภาพและความถูกต้องของซอฟต์แวร์
 
 * 🎓 **การศึกษา:** Bachelor of Science (Information Technology)
 * 💻 **ความสนใจ:** Software Testing (Manual & Automated Testing)
