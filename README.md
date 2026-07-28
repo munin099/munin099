@@ -1,115 +1,68 @@
-<div align="center">
-
-# 🌸 Hi, I'm Munin Ditam 👋
-
-### Software Tester • IT Student • Web Developer
-
-<img src="images/profilecv.jpg" width="180" style="border-radius:50%;" />
-
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=munin099&color=ffb6c1&style=flat-square)
-
-</div>
-
----
-
-# 🌷 About Me
-
-🎓 Bachelor of Science (Information Technology)
-
-💻 Interested in Software Testing
-
-🌱 Currently learning Robot Framework
-
-🏥 Developing Hospital Reservation System
-
-📍 Thailand
-
----
-
-# 🛠 Skills
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=78C8AC&height=180&section=header&text=Hi,%20I'm%20Munin%20Ditam%20👋&fontSize=35&fontColor=ffffff&fontAlignY=40" width="100%" />
+</p>
 
 <p align="center">
+  <b>Software Tester • QA • IT Student</b><br>
+  <i>"มุ่งมั่นตรวจสอบและควบคุมคุณภาพซอฟต์แวร์ เพื่อส่งมอบระบบที่มีประสิทธิภาพ"</i>
+</p>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode"/>
-
+<p align="center">
+  <a href="mailto:munin0993705279@gmail.com"><img src="https://img.shields.io/badge/Email-munin0993705279%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/munin099"><img src="https://img.shields.io/badge/GitHub-munin099-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-# 📚 Education
+### 🚀 เกี่ยวกับฉัน
 
-| Degree | Major |
-|---------|-------|
-| Bachelor of Science | Information Technology |
+นักศึกษาชั้นปีที่ 4 สาขาวิชาเทคโนโลยีสารสนเทศ (B.Sc.) มีความสนใจและมุ่งมั่นในสายงาน **Software Testing / Quality Assurance (QA)** โดยเน้นการออกแบบกรณีทดสอบ (Test Case) และการทดสอบระบบอัตโนมัติ (Automated Testing) เพื่อให้มั่นใจในคุณภาพและความถูกต้องของซอฟต์แวร์
 
----
-
-# 💼 Featured Project
-
-## 🏥 Hospital Special Room Reservation System
-
-Features
-
-- Login
-- Search Room Status
-- Add Request
-- Edit Request
-- Remove Request
-- Approve Request
-- Reject Request
-
-Technology
-
-- PHP
-- MySQL
-- HTML
-- CSS
-- JavaScript
+* 🎓 **การศึกษา:** Bachelor of Science (Information Technology)
+* 💻 **ความสนใจ:** Software Testing (Manual & Automated Testing)
+* 🌱 **กำลังศึกษา:** Robot Framework & Data-driven Testing
+* 🏥 **โปรเจกต์ทดสอบปัจจุบัน:** Hospital Special Room Reservation System
+* 📍 **สถานที่:** Thailand
 
 ---
 
-# 📊 GitHub Statistics
+### 🧰 เทคโนโลยีและเครื่องมือที่ใช้
+
+| โดเมน | เครื่องมือ / ทักษะ | รายละเอียด |
+| :--- | :--- | :--- |
+| **เครื่องมือทดสอบอัตโนมัติ** | ![](https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robot-framework&logoColor=white) | Automated Testing, Web Testing, Regression Testing |
+| **การจัดการทดสอบและข้อมูล** | ![](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) | Test Case Design, Data-driven Testing, Test Execution & Log |
+| **การสคริปต์และการทดสอบ** | ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Test Scripting for Test Automation |
+| **ฐานข้อมูลและเครื่องมือ** | ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) | Data Verification, Version Control |
+
+---
+
+### 💼 โครงการที่ทำการทดสอบ
+
+#### 🏥 Hospital Special Room Reservation System (ระบบจองห้องพิเศษโรงพยาบาล)
+
+* **ขอบเขตการทดสอบ (Testing Scope & Features):**
+  * Login Verification
+  * Search Room Status Functionality
+  * Add / Edit / Remove Request Workflows
+  * Approve / Reject Request Workflows
+* **สภาพแวดล้อมระบบ (System Environment):** `PHP`, `MySQL`, `HTML`, `CSS`, `JavaScript`
+
+---
+
+### 📊 สถิติ GitHub
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=munin099&show_icons=true&theme=rose_pine"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munin099&layout=compact&theme=rose_pine"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=munin099&show_icons=true&theme=rose_pine"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munin099&layout=compact&theme=rose_pine"/>
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=munin099&theme=rose-pine"/>
 </div>
 
 ---
 
-<div align="center">
+### 🌸 ติดต่อฉัน
 
-<img src="https://streak-stats.demolab.com?user=munin099&theme=rose-pine"/>
-
-</div>
-
----
-
-# 🌸 Connect with Me
-
-📧 Email
-
-munin0993705279@gmail.com
-
-📘 Facebook
-
-https://www.facebook.com/share/1JXQa8sSML/?mibextid=wwXIfr
-
-🐱 GitHub
-
-https://github.com/munin099
-
----
-
-<div align="center">
-
-### 🌷 Thank you for visiting my profile 🌷
-
-⭐ Don't forget to follow me ⭐
-
-</div>
+* 📧 **Email:** [munin0993705279@gmail.com](mailto:munin0993705279@gmail.com)
+* 📘 **Facebook:** [Munin Ditam](https://www.facebook.com/share/1JXQa8sSML/?mibextid=wwXIfr)
+* 🐱 **GitHub:** [munin099](https://github.com/munin099)
