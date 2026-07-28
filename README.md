@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  
   <a href="https://github.com/munin099"><img src="https://img.shields.io/badge/GitHub-munin099-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
