@@ -15,7 +15,7 @@
 
 ### 🚀 เกี่ยวกับฉัน
 
-นักศึกษาชั้นปีที่ 4 สาขาวิชาเทคโนโลยีสารสนเทศ มีความสนใจและมุ่งมั่นในสายงาน **Software Testing / Quality Assurance (QA)** โดยเน้นการออกแบบกรณีทดสอบ (Test Case) และการทดสอบระบบอัตโนมัติ (Automated Testing) เพื่อให้มั่นใจในคุณภาพและความถูกต้องของซอฟต์แวร์
+กศึกษาชั้นปีที่ 4 สาขาเทคโนโลยีสารสนเทศ มหาวิทยาลัยแม่โจ้ สนใจด้าน Software Testing และ Quality Assurance มีความรู้พื้นฐานด้านการออกแบบ Test Case, การทดสอบระบบ (Manual Testing) และการรายงานข้อบกพร่อง (Bug Reporting) จากโครงงานจบ พร้อมพัฒนาทักษะด้านการทดสอบซอฟต์แวร์ การทำงานเป็นทีม และการสื่อสาร เพื่อก้าวสู่การเป็น Software Tester/QA ที่มีคุณภาพ
 
 * 🎓 **การศึกษา:** Bachelor of Science (Information Technology)
 * 💻 **ความสนใจ:** Software Testing (Manual & Automated Testing)
