@@ -23,6 +23,7 @@
 * 🌱 **กำลังศึกษา:** Robot Framework & Data-driven Testing
 * 🏥 **โปรเจกต์ทดสอบปัจจุบัน:** Hospital Special Room Reservation System
 * 📍 **สถานที่:** Thailand
+* 📧 **อีเมล:** [munin0993705279@gmail.com](mailto:munin0993705279@gmail.com)
 
 ---
 
