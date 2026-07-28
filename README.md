@@ -53,8 +53,8 @@
 ### 📊 สถิติ GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=munin099&show_icons=true&theme=rose_pine"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munin099&layout=compact&theme=rose_pine"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=munin099&show_icons=true&theme=rose_pine"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=munin099&layout=compact&theme=rose_pine"/>
   <br><br>
   <img src="https://streak-stats.demolab.com?user=munin099&theme=rose-pine"/>
 </div>
