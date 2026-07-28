@@ -1,16 +1,58 @@
-## Hi there 👋
+┌────────────────────────────────────────────────────────────┐
+│                 Banner สีพาสเทล (ชมพู-ฟ้า)                 │
+│                 Hi, I'm Munin Ditam 👋                    │
+└────────────────────────────────────────────────────────────┘
 
-<!--
-**munin099/munin099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+           ○ รูปโปรไฟล์แบบวงกลม ○
 
-Here are some ideas to get you started:
+Software Tester | IT Student | Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+────────────────────────────────────────────
+
+👩 About Me
+
+🎓 Information Technology Student
+
+💻 Interested in Software Testing
+
+🌱 Learning Robot Framework
+
+🏥 Hospital Reservation System
+
+────────────────────────────────────────────
+
+🛠 Skills
+
+HTML CSS JavaScript PHP Python
+MySQL Git GitHub Robot Framework
+
+────────────────────────────────────────────
+
+📚 Education
+
+Bachelor of Science
+Information Technology
+
+────────────────────────────────────────────
+
+📂 Featured Project
+
+🏥 Hospital Special Room Reservation System
+
+────────────────────────────────────────────
+
+📈 GitHub Stats
+
+🔥 Streak
+
+💻 Top Languages
+
+────────────────────────────────────────────
+
+📫 Contact
+
+📧 Email
+
+💙 Facebook
+
+🐱 GitHub
