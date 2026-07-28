@@ -1,58 +1,115 @@
-┌────────────────────────────────────────────────────────────┐
-│                 Banner สีพาสเทล (ชมพู-ฟ้า)                 │
-│                 Hi, I'm Munin Ditam 👋                    │
-└────────────────────────────────────────────────────────────┘
+<div align="center">
 
-           ○ รูปโปรไฟล์แบบวงกลม ○
+# 🌸 Hi, I'm Munin Ditam 👋
 
-Software Tester | IT Student | Web Developer
+### Software Tester • IT Student • Web Developer
 
-────────────────────────────────────────────
+<img src="images/profilecv.jpg" width="180" style="border-radius:50%;" />
 
-👩 About Me
+<br><br>
 
-🎓 Information Technology Student
+![](https://komarev.com/ghpvc/?username=munin099&color=ffb6c1&style=flat-square)
+
+</div>
+
+---
+
+# 🌷 About Me
+
+🎓 Bachelor of Science (Information Technology)
 
 💻 Interested in Software Testing
 
-🌱 Learning Robot Framework
+🌱 Currently learning Robot Framework
 
-🏥 Hospital Reservation System
+🏥 Developing Hospital Reservation System
 
-────────────────────────────────────────────
+📍 Thailand
 
-🛠 Skills
+---
 
-HTML CSS JavaScript PHP Python
-MySQL Git GitHub Robot Framework
+# 🛠 Skills
 
-────────────────────────────────────────────
+<p align="center">
 
-📚 Education
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode"/>
 
-Bachelor of Science
-Information Technology
+</p>
 
-────────────────────────────────────────────
+---
 
-📂 Featured Project
+# 📚 Education
 
-🏥 Hospital Special Room Reservation System
+| Degree | Major |
+|---------|-------|
+| Bachelor of Science | Information Technology |
 
-────────────────────────────────────────────
+---
 
-📈 GitHub Stats
+# 💼 Featured Project
 
-🔥 Streak
+## 🏥 Hospital Special Room Reservation System
 
-💻 Top Languages
+Features
 
-────────────────────────────────────────────
+- Login
+- Search Room Status
+- Add Request
+- Edit Request
+- Remove Request
+- Approve Request
+- Reject Request
 
-📫 Contact
+Technology
+
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=munin099&show_icons=true&theme=rose_pine"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munin099&layout=compact&theme=rose_pine"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=munin099&theme=rose-pine"/>
+
+</div>
+
+---
+
+# 🌸 Connect with Me
 
 📧 Email
 
-💙 Facebook
+munin0993705279@gmail.com
+
+📘 Facebook
+
+https://www.facebook.com/share/1JXQa8sSML/?mibextid=wwXIfr
 
 🐱 GitHub
+
+https://github.com/munin099
+
+---
+
+<div align="center">
+
+### 🌷 Thank you for visiting my profile 🌷
+
+⭐ Don't forget to follow me ⭐
+
+</div>
