@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:munin0993705279@gmail.com"><img src="https://img.shields.io/badge/Email-munin0993705279%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  
   <a href="https://github.com/munin099"><img src="https://img.shields.io/badge/GitHub-munin099-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
