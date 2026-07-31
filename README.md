@@ -93,7 +93,7 @@
 > **ระบบจองห้องพิเศษ โรงพยาบาลป่าซาง**
 
 * 🤖 **Automated Testing:** พัฒนา Automated Test Scripts ด้วย Robot Framework (Browser Library) และทำ Data-Driven Testing ผ่าน Microsoft Excel
-* 🎯 **Test Design & Coverage:** ออกแบบชุดทดสอบครอบคลุม **395 Test Cases** ตามมาตรฐาน IEEE 829-2008 ด้วยเทคนิค Boundary Value Analysis, Pairwise Testing, Decision Table และ Edge Cases
+* 🎯 **Test Design & Coverage:** ออกแบบชุดทดสอบครอบคลุม  **395 Test Cases** ตามมาตรฐาน IEEE 829-2008 ด้วยเทคนิค Boundary Value Analysis, Pairwise Testing, Decision Table และ Edge Cases
 * 🔄 **Testing Scope:**
   * 🔑 **Authentication:** Login (Nurse, Special Room Nurse, Admin)
   * 🔍 **Search & View:** Search Room Status & Available Rooms
